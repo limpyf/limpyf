@@ -78,7 +78,6 @@ I'm focused on **learning and growing** in the cybersecurity community:
 - 🤝 **Interested in contributing** to beginner-friendly open-source security projects
 - 📚 **Sharing knowledge** through write-ups and documentation
 
-If you see potential in a motivated learner, feel free to **reach out** or **open an issue** on my projects!
 
 ---
 
