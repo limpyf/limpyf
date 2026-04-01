@@ -35,7 +35,6 @@ I'm early in my journey, but I'm **curious, consistent, and committed** to growi
 - 🔧 Building simple Python security tools to understand core concepts
 - 📚 Completing TryHackMe learning paths 
 - 🎓 Balancing university coursework with practical cybersecurity skills
--  Solving beginner-friendly CTF challenges to apply theoretical knowledge
 
 ---
 
