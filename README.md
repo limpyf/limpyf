@@ -4,7 +4,7 @@
 ![Learning](https://img.shields.io/badge/Focus-Cybersecurity_Fundamentals-orange?style=for-the-badge)
 
 > 🎓 1st-year Computer Science student @ Collegium Da Vinci, Poland  
-> 🔐 Exploring cybersecurity fundamentals — one lab, one script, one CTF at a time  
+> 🔐 Exploring cybersecurity fundamentals   
 > 🚀 Actively seeking **internship opportunities** to learn from experienced professionals
 
 I'm early in my journey, but I'm **curious, consistent, and committed** to growing into a security engineer who makes systems safer.
@@ -14,7 +14,6 @@ I'm early in my journey, but I'm **curious, consistent, and committed** to growi
 ## 🔗 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@limpyf-181717?style=for-the-badge&logo=github)](https://github.com/limpyf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Koval-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/limpyf)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-SOON-28B74B?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/yourname)
 [![Email](https://img.shields.io/badge/Email-kovalms07@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kovalms07@gmail.com)
 
@@ -55,7 +54,6 @@ I'm early in my journey, but I'm **curious, consistent, and committed** to growi
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Development & OS
